@@ -1,6 +1,7 @@
 let nameInput;
 let button;
 let greeting;
+let font;
 let user = "";
 
 function preload() {
