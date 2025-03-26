@@ -31,7 +31,7 @@ function setup() {
 function greet() {
   let name = nameInput.value(); 
   user = nameInput.value();
-  greeting.html(`Hello, ${name}!`);
+  greeting.html(`Hello, nice to meet you ${name}!`);
   nameInput.value(''); 
 }
 
